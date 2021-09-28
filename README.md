@@ -8,3 +8,5 @@
 作業三  https://github.com/hswang108/IMLP_347/blob/main/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb
        https://github.com/hswang108/IMLP_347/blob/main/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb
        https://github.com/hswang108/IMLP_347/blob/main/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb
+       
+作業四https://github.com/hswang108/IMLP_347/blob/main/HW_%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9_%E5%89%8D%E8%99%95%E7%90%86%E5%AF%A6%E6%88%B0_Ans-checkpoint.ipynb
