@@ -14,3 +14,7 @@
 作業五 https://github.com/hswang108/IMLP_347/blob/main/01_activate%E5%AF%A6%E6%88%B0-checkpoint.ipynb
 https://github.com/hswang108/IMLP_347/blob/main/02_Logistic%20regression%E5%AF%A6%E6%88%B0-checkpoint.ipynb
 https://github.com/hswang108/IMLP_347/blob/main/03_KNN%E5%AF%A6%E6%88%B0-checkpoint.ipynb
+
+作業六 
+https://github.com/hswang108/IMLP_347/blob/main/1.3_ConfusionMatrix_(%E5%AF%A6%E6%88%B0).ipynb
+https://github.com/hswang108/IMLP_347/blob/main/2.3_Ensemble(%E5%AF%A6%E6%88%B0).ipynb
